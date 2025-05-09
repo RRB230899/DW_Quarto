@@ -1,0 +1,6 @@
+---
+title: "Summary Quarto"
+---
+
+## Summary
+- **[View the Summary Notebook](Summary.ipynb)**
